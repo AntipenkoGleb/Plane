@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48c3ec16-0b27-4561-896c-3e51f9aef85d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Plane/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Plane/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Plane/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Plane/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Plane/.idea/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Plane/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Plane/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Documentation.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Fonts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Fonts/LiberationSans - OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Fonts/LiberationSans.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Fonts/LiberationSans.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Resources.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Resources/Fonts &amp; Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Resources/LineBreaking Following Characters.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Resources/LineBreaking Leading Characters.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Resources/Sprite Assets.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Resources/Style Sheets.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Resources/TMP Settings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Resources/TMP Settings.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMP_Bitmap.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMP_SDF Overlay.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMP_SDF SSD.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMP_SDF-Surface.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMP_SDF.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMP_SDF.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMP_Sprite.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMP_Sprite.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMPro.cginc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMPro.cginc.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMPro_Mobile.cginc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMPro_Properties.cginc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMPro_Surface.cginc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Sprites.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Sprites/EmojiOne Attribution.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Sprites/EmojiOne.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Sprites/EmojiOne.json.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Sprites/EmojiOne.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Addons/TextMesh Pro/Sprites/EmojiOne.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art/Materials/M_Enviroment.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art/Materials/M_Enviroment.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art/Materials/M_Protorype.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art/Materials/M_Protorype.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art/PhysicMaterials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art/PhysicMaterials/PM_Zero-Friction.physicMaterial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art/PhysicMaterials/PM_Zero-Friction.physicMaterial.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art/Prefabs/Player.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art/Prefabs/Player/Player.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art/Prefabs/Player/Player.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Images.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Images/Plane1_2048x2048.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Images/Plane1_2048x2048.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Images/Plane2_2048x2048.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Images/Plane2_2048x2048.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Images/Plane3_2048x2048.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Images/Plane3_2048x2048.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Images/Plane4_2048x2048.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Images/Plane4_2048x2048.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Images/Plane_UV_2048x2048.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Images/Plane_UV_2048x2048.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Images/Prop1.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Images/Prop1.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Images/Prop1Blur.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Images/Prop1Blur.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Materials/Plane1_2048x2048.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Materials/Plane1_2048x2048.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Materials/Plane2_2048x2048.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Materials/Plane2_2048x2048.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Materials/Plane3_2048x2048.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Materials/Plane3_2048x2048.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Materials/Plane4_2048x2048.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Materials/Plane4_2048x2048.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Materials/Prop1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Materials/Prop1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Materials/Prop1Blur.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Materials/Prop1Blur.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Models.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Models/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Models/Materials/Material.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Models/Materials/Material.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Models/Materials/No Name.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Models/Materials/No Name.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Models/Plane1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Models/Plane1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Models/Prop1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Models/Prop1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Models/Prop1Blur.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Models/Prop1Blur.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Prefabs/Plane1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Prefabs/Plane1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Prefabs/Plane2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Prefabs/Plane2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Prefabs/Plane3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Prefabs/Plane3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Prefabs/Plane4.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AwesomeCartoonPlanes/Prefabs/Plane4.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX Easy Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX Easy Editor/CartoonFX Easy Editor Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX Easy Editor/CartoonFX Easy Editor Readme.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX Easy Editor/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX Easy Editor/Editor/CFXEasyEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX Easy Editor/Editor/CFXEasyEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX Prefabs/Electric.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX Prefabs/Electric/CFX_ElectricityBall.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX Prefabs/Electric/CFX_ElectricityBall.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX Prefabs/Explosions.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX Prefabs/Explosions/CFX_Explosion_B_Smoke+Text.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX Prefabs/Explosions/CFX_Explosion_B_Smoke+Text.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX Prefabs/Explosions/CFX_Firework_Trails_Gravity.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX Prefabs/Explosions/CFX_Firework_Trails_Gravity.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX Prefabs/Hits.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX Prefabs/Hits/CFX_Hit_A Red+RandomText.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX Prefabs/Hits/CFX_Hit_A Red+RandomText.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX Prefabs/Hits/CFX_Hit_C White.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX Prefabs/Hits/CFX_Hit_C White.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX Prefabs/Misc.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX Prefabs/Misc/CFX_MagicPoof.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX Prefabs/Misc/CFX_MagicPoof.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX Prefabs/Misc/CFX_Magical_Source.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX Prefabs/Misc/CFX_Magical_Source.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX Prefabs/Misc/CFX_Poof.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX Prefabs/Misc/CFX_Poof.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX Prefabs/Misc/CFX_Tornado.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX Prefabs/Misc/CFX_Tornado.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX Prefabs/Misc/CFX_Virus.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX Prefabs/Misc/CFX_Virus.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Blood.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Blood/CFX2_Blood.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Blood/CFX2_Blood.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Debris Hits.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Debris Hits/CFX2_RockHit.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Debris Hits/CFX2_RockHit.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Electric.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Electric/CFX2_SparksHit_B Sphere.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Electric/CFX2_SparksHit_B Sphere.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Explosions.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Explosions/CFX2_WWExplosion_C.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Explosions/CFX2_WWExplosion_C.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Misc.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Misc/CFX2_BatsCloud.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Misc/CFX2_BatsCloud.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Misc/CFX2_BrokenHeart.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Misc/CFX2_BrokenHeart.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Misc/CFX2_Wandering_Spirits.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Misc/CFX2_Wandering_Spirits.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Pickup Items.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Pickup Items/CFX2_PickupDiamond2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Pickup Items/CFX2_PickupDiamond2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Pickup Items/CFX2_PickupHeart.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Pickup Items/CFX2_PickupHeart.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Pickup Items/CFX2_PickupSmiley2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Pickup Items/CFX2_PickupSmiley2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Pickup Items/CFX2_PickupStar.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Pickup Items/CFX2_PickupStar.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Skull &amp; Ghosts Effects.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Skull &amp; Ghosts Effects/CFX2_EnemyDeathSkull.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Skull &amp; Ghosts Effects/CFX2_EnemyDeathSkull.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Water.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Water/CFX2_Big_Splash (No Collision).prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Water/CFX2_Big_Splash (No Collision).prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Electric.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Electric/CFX3_Hit_Electric_A_Ground.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Electric/CFX3_Hit_Electric_A_Ground.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Electric/CFX3_Hit_Electric_C_Air.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Electric/CFX3_Hit_Electric_C_Air.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Environment.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Environment/CFX3_Snow_Dense.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Environment/CFX3_Snow_Dense.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Fire.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Fire/CFX3_Fire_Explosion.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Fire/CFX3_Fire_Explosion.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Fire/CFX3_Fire_Shield.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Fire/CFX3_Fire_Shield.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Fire/CFX3_Flying_Ember_Upward.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Fire/CFX3_Flying_Ember_Upward.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Light.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Light/CFX3_Hit_Light_C_Air.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Light/CFX3_Hit_Light_C_Air.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Light/CFX3_ResurrectionLight_Circle.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Light/CFX3_ResurrectionLight_Circle.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Magic Dark.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Magic Dark/CFX3_DarkMagicAura_A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Magic Dark/CFX3_DarkMagicAura_A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Magic Misc.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Magic Misc/CFX3_MagicAura_B_Runic.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Magic Misc/CFX3_MagicAura_B_Runic.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Magic Misc/CFX3_MagicAura_D_Runic.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Magic Misc/CFX3_MagicAura_D_Runic.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Magic Misc/CFX3_Vortex_Ground.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Magic Misc/CFX3_Vortex_Ground.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Misc.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Misc/CFX3_Hit_Misc_B_Gravity.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Misc/CFX3_Hit_Misc_B_Gravity.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Misc/CFX3_Hit_Misc_D.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Misc/CFX3_Hit_Misc_D.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Misc/CFX3_Hit_SmokePuff.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Misc/CFX3_Hit_SmokePuff.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Misc/CFX3_Skull_Explosion.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Misc/CFX3_Skull_Explosion.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX4 Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX4 Prefabs/Electric.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX4 Prefabs/Electric/CFX4 Sparks Explosion B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX4 Prefabs/Electric/CFX4 Sparks Explosion B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX4 Prefabs/Fire.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX4 Prefabs/Fire/CFX4 Fire.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX4 Prefabs/Fire/CFX4 Fire.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX4 Prefabs/Light.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX4 Prefabs/Light/CFX4 Aura Bubble C.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX4 Prefabs/Light/CFX4 Aura Bubble C.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX4 Prefabs/Magic.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX4 Prefabs/Magic/CFX4 Disruptive Force.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX4 Prefabs/Magic/CFX4 Disruptive Force.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX4 Prefabs/Magic/CFX4 Magic Hit.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX4 Prefabs/Magic/CFX4 Magic Hit.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX4 Prefabs/Misc.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX4 Prefabs/Misc/CFX4 Drill Air Hit (NO COLLISION).prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX4 Prefabs/Misc/CFX4 Drill Air Hit (NO COLLISION).prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX4 Prefabs/Misc/CFX4 Hit B (Orange).prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX4 Prefabs/Misc/CFX4 Hit B (Orange).prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX4 Prefabs/Misc/CFX4 Hit Paint C (Cyan).prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX4 Prefabs/Misc/CFX4 Hit Paint C (Cyan).prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX4 Prefabs/Misc/CFX4 Hit Pow.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX4 Prefabs/Misc/CFX4 Hit Pow.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX4 Prefabs/Water.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX4 Prefabs/Water/CFX4 Bubbles Whirl.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX4 Prefabs/Water/CFX4 Bubbles Whirl.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX4 Prefabs/Water/CFX4 Environment Bubbles Denser.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CFX4 Prefabs/Water/CFX4 Environment Bubbles Denser.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CartoonFX Free.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/CartoonFX Free.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/Assets.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/Assets/CFX3_T_Ground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/Assets/CFX3_T_Ground.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/Assets/CFXFree_Demo_Ground.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/Assets/CFXFree_Demo_Ground.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/Assets/CFX_AutoStopLoopedEffect.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/Assets/CFX_AutoStopLoopedEffect.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/Assets/CFX_Demo_New.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/Assets/CFX_Demo_New.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/Assets/CFX_Demo_RandomDir.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/Assets/CFX_Demo_RandomDir.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/Assets/CFX_Demo_RandomDirectionTranslate.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/Assets/CFX_Demo_RandomDirectionTranslate.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/Assets/CFX_Demo_RotateCamera.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/Assets/CFX_Demo_RotateCamera.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/Assets/CFX_Demo_Translate.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/Assets/CFX_Demo_Translate.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/CFX Free Demo.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/CFX Free Demo.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/UI Canvas.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/UI Canvas/CFX Demo Btn Arrow R.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/UI Canvas/CFX Demo Btn Arrow R.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/UI Canvas/CFX Demo Btn Arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/UI Canvas/CFX Demo Btn Arrow.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/UI Canvas/CFX Demo Btn Camera H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/UI Canvas/CFX Demo Btn Camera H.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/UI Canvas/CFX Demo Btn Camera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/UI Canvas/CFX Demo Btn Camera.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/UI Canvas/CFX Demo Btn Ground H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/UI Canvas/CFX Demo Btn Ground H.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/UI Canvas/CFX Demo Btn Ground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/UI Canvas/CFX Demo Btn Ground.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/UI Canvas/CFX Demo Btn SlowMo H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/UI Canvas/CFX Demo Btn SlowMo H.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/UI Canvas/CFX Demo Btn SlowMo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/UI Canvas/CFX Demo Btn SlowMo.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/UI Canvas/CFX1 Demo Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/UI Canvas/CFX1 Demo Logo.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/UI Canvas/CFX2 Demo Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/UI Canvas/CFX2 Demo Logo.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/UI Canvas/CFX3 Demo Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/UI Canvas/CFX3 Demo Logo.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/UI Canvas/CFX4 Demo Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/UI Canvas/CFX4 Demo Logo.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/UI Canvas/CFXFree Demo Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Demo/UI Canvas/CFXFree Demo Logo.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Animated.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Animated/CFX2_Anim_Bat Multiply.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Animated/CFX2_Anim_Bat Multiply.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Animated/CFX_Anim_Bubble_Add.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Animated/CFX_Anim_Bubble_Add.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Animated/CFX_Anim_Electricity_Add.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Animated/CFX_Anim_Electricity_Add.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Animated/CFX_Anim_Poof_Add.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Animated/CFX_Anim_Poof_Add.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Animated/CFX_Anim_Poof_AddSoft.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Animated/CFX_Anim_Poof_AddSoft.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Animated/CFX_Anim_Triangle2_Add.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Animated/CFX_Anim_Triangle2_Add.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Animated/CFX_Anim_Triangle2_AlphaBlendedPremult.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Animated/CFX_Anim_Triangle2_AlphaBlendedPremult.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Animated/CFX_Anim_Triangle3_Add.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Animated/CFX_Anim_Triangle3_Add.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Animated/CFX_Anim_Triangle3_Mult.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Animated/CFX_Anim_Triangle3_Mult.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Animated/CFX_Anim_Triangle_AddSoft.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Animated/CFX_Anim_Triangle_AddSoft.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Blood.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Blood/CFX2_Blood AB.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Blood/CFX2_Blood AB.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Electric.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Electric/CFX_ElectricBolt_Add.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Electric/CFX_ElectricBolt_Add.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Electric/CFX_Sparkles_Add.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Electric/CFX_Sparkles_Add.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Electric/CFX_YellowStar.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Electric/CFX_YellowStar.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Fire.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Fire/CFX3_FireBulk ADD.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Fire/CFX3_FireBulk ADD.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Fire/CFX3_FireSparkle ADD.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Fire/CFX3_FireSparkle ADD.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Fire/CFX4_FireBulk AddSoft.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Fire/CFX4_FireBulk AddSoft.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Fire/CFX4_FireSoft AddSoft.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Fire/CFX4_FireSoft AddSoft.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Light.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Light/CFX3_AuraRays MULT.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Light/CFX3_AuraRays MULT.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Light/CFX3_AuraRunic ADD.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Light/CFX3_AuraRunic ADD.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Light/CFX3_CircleSoft ADDSOFT.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Light/CFX3_CircleSoft ADDSOFT.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Light/CFX3_GlowDot ADDSOFT.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Light/CFX3_GlowDot ADDSOFT.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Light/CFX3_GlowDot MULT.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Light/CFX3_GlowDot MULT.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Light/CFX3_GlowSpike ADD.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Light/CFX3_GlowSpike ADD.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Light/CFX3_GlowStar ADD.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Light/CFX3_GlowStar ADD.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Light/CFX3_HollowCircle ADD.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Light/CFX3_HollowCircle ADD.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Light/CFX3_RayStraight ADD.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Light/CFX3_RayStraight ADD.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Light/CFX3_SmallRay ADDSOFT.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Light/CFX3_SmallRay ADDSOFT.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Light/CFX4_AuraBubble ADD.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Light/CFX4_AuraBubble ADD.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX2_Debris_SmallRocks AB 4Frames.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX2_Debris_SmallRocks AB 4Frames.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX2_Glow Soft.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX2_Glow Soft.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX2_Glow.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX2_Glow.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX2_ShinyStar Add.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX2_ShinyStar Add.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX2_WWSmoke AB.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX2_WWSmoke AB.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX2_WWSmoke ABP.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX2_WWSmoke ABP.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX2_WWSmoke2 AB.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX2_WWSmoke2 AB.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX2_WhiteCircle AB.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX2_WhiteCircle AB.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX3_SmokePuff ADDSOFT.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX3_SmokePuff ADDSOFT.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX3_SmokePuff MULT.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX3_SmokePuff MULT.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX4_Anim_WiggleLine Add.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX4_Anim_WiggleLine Add.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX4_Circle AB.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX4_Circle AB.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX4_GroundDebris AB.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX4_GroundDebris AB.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX4_PaintHit AB.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX4_PaintHit AB.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX4_PowHit AB.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX4_PowHit AB.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX4_SmokePuff AB.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX4_SmokePuff AB.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX4_SparksHit AddSoft.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX4_SparksHit AddSoft.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX_Bubble.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX_Bubble.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX_Skull.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX_Skull.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX_Smoke_4frms.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX_Smoke_4frms.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX_Star Add.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX_Star Add.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX_Tornado.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX_Tornado.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX_WhiteCircle.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX_WhiteCircle.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Stretched.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Stretched/CFX2_Faded Ray.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Stretched/CFX2_Faded Ray.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Stretched/CFX3_Ray MULT.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Stretched/CFX3_Ray MULT.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Stretched/CFX_RayRounded.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Stretched/CFX_RayRounded.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Stretched/CFX_SmallSpike_AddSoft.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Stretched/CFX_SmallSpike_AddSoft.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Stretched/CFX_SpacedLine.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Stretched/CFX_SpacedLine.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Symbols.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_BrokenHeart Add.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_BrokenHeart Add.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_Diamond Add.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_Diamond Add.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_Diamond Outline Add.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_Diamond Outline Add.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_Heart Add.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_Heart Add.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_Heart Outline Add.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_Heart Outline Add.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_HeartBrokenSlice.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_HeartBrokenSlice.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_SkullStretched Add.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_SkullStretched Add.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_Smiley Add.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_Smiley Add.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_Smiley Outline Add.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_Smiley Outline Add.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_Star Add.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_Star Add.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_Star Outline Add.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_Star Outline Add.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX3_Skull ADDSOFT.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX3_Skull ADDSOFT.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Texts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Texts/CFX_Text_Boom.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Texts/CFX_Text_Boom.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Texts/CFX_Text_Hit_Random.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Texts/CFX_Text_Hit_Random.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Water.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Water/CFX4_BubbleSubtle AddA8.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Water/CFX4_BubbleSubtle AddA8.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Water/CFX4_Foam AddA8.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Water/CFX4_Foam AddA8.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Water/CFX_Anim_Splash_4frms.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Water/CFX_Anim_Splash_4frms.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Water/CFX_Foam_AddSoft.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Water/CFX_Foam_AddSoft.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Water/CFX_Ripple_AddSoft.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Materials/Water/CFX_Ripple_AddSoft.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Mesh.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Mesh/CFX_Mesh_Circular.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Mesh/CFX_Mesh_Circular.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Mesh/CFX_Mesh_Circular1.5.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Mesh/CFX_Mesh_Circular1.5.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Mesh/CFX_Mesh_Circular2.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Mesh/CFX_Mesh_Circular2.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Mesh/CFX_Mesh_CircularAngle.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Mesh/CFX_Mesh_CircularAngle.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Scripts/CFX_AutoDestructShuriken.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Scripts/CFX_AutoDestructShuriken.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Scripts/CFX_AutoRotate.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Scripts/CFX_AutoRotate.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Scripts/CFX_LightFlicker.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Scripts/CFX_LightFlicker.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Scripts/CFX_LightIntensityFade.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Scripts/CFX_LightIntensityFade.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Shaders.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Shaders/CFX3 Multiply Color.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Shaders/CFX3 Multiply Color.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Shaders/CFXM_MobileParticleAdd_Alpha8.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Shaders/CFXM_MobileParticleAdd_Alpha8.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_Bat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_Bat.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_Blood_AB.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_Blood_AB.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_Decal_BloodPuddle_AB.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_Decal_BloodPuddle_AB.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_Diamond Outline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_Diamond Outline.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_Diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_Diamond.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_FadedRay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_FadedRay.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_Glow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_Glow.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_GlowSoft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_GlowSoft.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_Heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_Heart.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_HeartBrokenSlice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_HeartBrokenSlice.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_HeartBroken_2Frames.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_HeartBroken_2Frames.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_HeartOutline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_HeartOutline.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_ShinyStar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_ShinyStar.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_SkullStretch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_SkullStretch.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_SmallRocks_4Frames.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_SmallRocks_4Frames.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_Smiley Happy Outline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_Smiley Happy Outline.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_Smiley Happy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_Smiley Happy.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_Star Outline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_Star Outline.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_Star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_Star.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_WWInvSmoke ABP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_WWInvSmoke ABP.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_WWInvSmoke2 AB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_WWInvSmoke2 AB.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_WWSmoke Glow AB.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_WWSmoke Glow AB.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_Wood.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX2_T_Wood.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX3_T_AuraRays.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX3_T_AuraRays.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX3_T_AuraRunic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX3_T_AuraRunic.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX3_T_CircleSoft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX3_T_CircleSoft.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX3_T_FireBulk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX3_T_FireBulk.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX3_T_FireSparkle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX3_T_FireSparkle.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX3_T_GlowDot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX3_T_GlowDot.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX3_T_GlowSpike.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX3_T_GlowSpike.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX3_T_GlowStar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX3_T_GlowStar.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX3_T_HollowCircle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX3_T_HollowCircle.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX3_T_Leaf.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX3_T_Leaf.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX3_T_RayStraight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX3_T_RayStraight.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX3_T_Skull.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX3_T_Skull.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX3_T_SmallRay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX3_T_SmallRay.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX3_T_SmokePuff.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX3_T_SmokePuff.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX4_T_Anim_WiggleLine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX4_T_Anim_WiggleLine.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX4_T_AuraBubble.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX4_T_AuraBubble.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX4_T_BubbleSubtle A8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX4_T_BubbleSubtle A8.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX4_T_Circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX4_T_Circle.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX4_T_FireBulk AB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX4_T_FireBulk AB.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX4_T_FireSoft RGB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX4_T_FireSoft RGB.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX4_T_Foam A8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX4_T_Foam A8.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX4_T_GroundDebris AB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX4_T_GroundDebris AB.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX4_T_PaintHit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX4_T_PaintHit.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX4_T_PowHit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX4_T_PowHit.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX4_T_SmokePuff AB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX4_T_SmokePuff AB.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX4_T_SparksHit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX4_T_SparksHit.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_ElectricSparkle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_ElectricSparkle.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Anim4_Bubble.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Anim4_Bubble.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Anim4_RoundedLines.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Anim4_RoundedLines.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Anim4_Triangle1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Anim4_Triangle1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Anim4_Triangle3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Anim4_Triangle3.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Anim7_Electricity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Anim7_Electricity.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Anim8_Triangle2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Anim8_Triangle2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Bolt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Bolt.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Bubble.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Bubble.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Flame1_ABP.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Flame1_ABP.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Foam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Foam.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Ray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Ray.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_RayRounded.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_RayRounded.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Ripple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Ripple.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Skull.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Skull.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Smoke_4Frames.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Smoke_4Frames.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_SpacedLine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_SpacedLine.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_SpacedSpike.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_SpacedSpike.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Splash_4Frames.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Splash_4Frames.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Star Add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Star Add.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Star.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Star.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Text_Boom.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Text_Boom.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Text_HitRandom.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Text_HitRandom.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Text_Poof.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Text_Poof.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Text_Slash.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Text_Slash.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Text_Splash.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Text_Splash.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Text_Woooshh.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Text_Woooshh.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Text_Zap.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Text_Zap.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Thunderbolt.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Thunderbolt.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Tornado.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_Tornado.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_WhiteCircleSmall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX/Textures/CFX_T_WhiteCircleSmall.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObjects.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/Player.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/Player/Settings.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/Player/Settings/PlayerSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/Player/Settings/PlayerSettings.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/Player/Variables.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/Player/Variables/PlayerMovementSpeed.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/Player/Variables/PlayerMovementSpeed.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/Player/Variables/PlayerPosition.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/Player/Variables/PlayerPosition.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/Player/Variables/PlayerRotation.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/Player/Variables/PlayerRotation.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/Player/Variables/PlayerRotationInput.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/Player/Variables/PlayerRotationInput.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/Player/Variables/PlayerRotationSpeed.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/Player/Variables/PlayerRotationSpeed.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Channels.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Channels/Vector3EventChannel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Channels/Vector3EventChannel.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Channels/VoidEventChannel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Channels/VoidEventChannel.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Editor/FloatObservableEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Editor/FloatObservableEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Editor/GameEventDrawer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Editor/GameEventDrawer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Editor/GameEventEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Editor/GameEventEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Editor/VariableDrawer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Editor/VariableDrawer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Editor/VariableReferenceDrawer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Editor/VariableReferenceDrawer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Editor/basescripts.editor.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Editor/basescripts.editor.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/EventStateMachine.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/EventStateMachine/Actions.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/EventStateMachine/Actions/AddRotationAction.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/EventStateMachine/Actions/AddRotationAction.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/EventStateMachine/Actions/ConditionAction.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/EventStateMachine/Actions/ConditionAction.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/EventStateMachine/Actions/SetRotationAction.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/EventStateMachine/Actions/SetRotationAction.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/EventStateMachine/Actions/SetVelocityAction.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/EventStateMachine/Actions/SetVelocityAction.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/EventStateMachine/Base.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/EventStateMachine/Base/Action.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/EventStateMachine/Base/Action.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/EventStateMachine/Base/Condition.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/EventStateMachine/Base/Condition.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/EventStateMachine/Base/State.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/EventStateMachine/Base/State.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/EventStateMachine/CachedMonoBehaviour.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/EventStateMachine/CachedMonoBehaviour.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/EventStateMachine/EventStateMachine.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/EventStateMachine/EventStateMachine.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Events.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Events/GameEvent.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Events/GameEvent.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Events/GameEventListener.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Events/GameEventListener.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Base.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Base/IObservable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Base/IObservable.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Base/IObserver.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Base/IObserver.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Base/Observable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Base/Observable.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Base/Observer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Base/Observer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Base/OrderedRuntimeSet.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Base/OrderedRuntimeSet.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Base/RuntimeSet.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Base/RuntimeSet.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Base/Settings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Base/Settings.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Base/Variable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Base/Variable.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Base/VariableReference.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Base/VariableReference.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Boolean.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Boolean/BooleanObservable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Boolean/BooleanObservable.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Boolean/BooleanObserver.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Boolean/BooleanObserver.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Boolean/BooleanReference.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Boolean/BooleanReference.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Boolean/BooleanVariable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Boolean/BooleanVariable.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Float.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Float/FloatObservable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Float/FloatObservable.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Float/FloatObserver.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Float/FloatObserver.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Float/FloatReference.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Float/FloatReference.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Float/FloatVariable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Float/FloatVariable.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Integer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Integer/IntObservable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Integer/IntObservable.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Integer/IntObserver.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Integer/IntObserver.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Integer/IntReference.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Integer/IntReference.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Integer/IntVariable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Integer/IntVariable.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Quaternion.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Quaternion/QuaternionObservable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Quaternion/QuaternionObservable.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Quaternion/QuaternionObserver.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Quaternion/QuaternionObserver.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Quaternion/QuaternionReference.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Quaternion/QuaternionReference.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Quaternion/QuaternionVariable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Quaternion/QuaternionVariable.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Transform.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Transform/TransformObservable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Transform/TransformObservable.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Transform/TransformObserver.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Transform/TransformObserver.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Transform/TransformReference.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Transform/TransformReference.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Transform/TransformVariable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Transform/TransformVariable.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Vector3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Vector3/Vector3Observable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Vector3/Vector3Observable.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Vector3/Vector3Observer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Vector3/Vector3Observer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Vector3/Vector3Reference.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Vector3/Vector3Reference.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Vector3/Vector3Variable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/Types/Vector3/Vector3Variable.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/basedef.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Base/basedef.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerSettings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerSettings.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/scriptsdef.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/scriptsdef.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Graphics.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Graphics/Lightning.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Graphics/Main Global Volume Profile.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Graphics/Main Global Volume Profile.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Graphics/Main_Forward_Rendering.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Graphics/Main_Forward_Rendering.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Graphics/Main_Renderer.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Graphics/Main_Renderer.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Graphics/Passes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Graphics/Passes/Blit.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Graphics/Passes/Blit.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Graphics/Passes/BlitPass.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Graphics/Passes/BlitPass.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Graphics/Passes/FullScreenQuad.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Graphics/Passes/FullScreenQuad.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Graphics/Passes/FullScreenQuadPass.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Graphics/Passes/FullScreenQuadPass.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Graphics/Shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Graphics/Shader/SobelFilter.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Graphics/Shader/SobelFilter.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Graphics/Shader/Toon.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Graphics/Shader/Toon.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Graphics/Shader/ToonBasicOutline.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Graphics/Shader/ToonBasicOutline.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/ColorLit.shadergraph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/ColorLit.shadergraph.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/SceneTemplateSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TimelineSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/VFXManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/VersionControlSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/XRSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/ec/87cd0126/StringComparer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C9B5231E-3651-48A4-BC21-0CC4E439206D/0f/307d983e/EditorGUI.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C9B5231E-3651-48A4-BC21-0CC4E439206D/55/30c87aef/SerializedObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C9B5231E-3651-48A4-BC21-0CC4E439206D/b3/7b3fa64f/EditorGUILayout.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C9B5231E-3651-48A4-BC21-0CC4E439206D/8e/b2cada6c/PropertyHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/394C8FAE-4BA1-4DD2-A259-BD441D5BEF25/70/ee9b36e1/SortedList`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Base/Events/GameEventListener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Base/Events/GameEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6DDF8EAC-3856-492A-B1B8-CF42618915CC/7c/e4fb6ae6/GUI.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6DDF8EAC-3856-492A-B1B8-CF42618915CC/da/b06c376f/GUISkin.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Base/EventStateMachine/EventStateMachine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C9B5231E-3651-48A4-BC21-0CC4E439206D/4b/2a64e5a0/PropertyDrawer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C9B5231E-3651-48A4-BC21-0CC4E439206D/8c/2f2cde05/ScriptAttributeUtility.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Integer/IntVariable.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Transform/TransformVariable.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Transform/TransfromReference.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Transform/TransformObservable.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Vector3/Vector3Observable.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Vector3/Vector3Variable.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Float/FloatVariable.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Float/FloatObservable.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/SimpleInput/ButtonInput.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/SimpleInput/ButtonPressInput.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/SimpleInput/ButtonClickInput.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Void/VoidVariable.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/SimpleStateMachineController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/SimpleInput/CachedMonoBehaviour.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/SimpleStateMachine/CachedMonoBehaviour.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Events/Editor/GameEventDrawer.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Quaternion/1.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Quaternion/a.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Quaternion/A.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Quaternion/As.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Quaternion/a1.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Quaternion/Vector.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Quaternion/A4.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Quaternion/QuaternionVariable.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Quaternion/A3.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Quaternion/A1.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Quaternion/A2.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Quaternion/QuanternionObservable.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Quaternion/Quaternion.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Quaternion/QuaternionObservable.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Quaternion/QuaternionObserver.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/SimpleStateMachine/SimpleState.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/SimpleStateMachine/SimpleStateMachineController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Base/VariableReference.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Base/Editor/VariableReferenceDrawer.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Quaternion/QuaternionReference.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/Player/PlayerState.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Base/OrderedRuntimeSet.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CheckpointSystem/Checkpoint.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Base/Settings.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Base/Editor/SettingsDrawer.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerSettings.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Base/Observable.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Base/Variable.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Types/Base/Editor/VariableDrawer.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Channels/EventChannek.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Channels/EventChannel.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Channels/VoidEventChannel.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Base/Channels/Vector3EventChannel.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1qzgH4rB8M6P1JE08knjRRpJjcb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48c3ec16-0b27-4561-896c-3e51f9aef85d" name="Default Changelist" comment="" />
+      <created>1618087753647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618087753647</updated>
+      <workItem from="1618087771473" duration="96000" />
+      <workItem from="1618087920170" duration="39089000" />
+      <workItem from="1618533249021" duration="46019000" />
+      <workItem from="1619115706882" duration="20990000" />
+      <workItem from="1620072154081" duration="9216000" />
+      <workItem from="1621508520775" duration="57213000" />
+      <workItem from="1624727990824" duration="6000" />
+      <workItem from="1624728061607" duration="21572000" />
+      <workItem from="1625263264772" duration="82000" />
+      <workItem from="1625263378111" duration="316000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
