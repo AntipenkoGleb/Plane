@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace Base.Types.Boolean
 {
-    [CreateAssetMenu(fileName = "New Boolean Observable", menuName = "Types/Boolean/Observable")]
+    [CreateAssetMenu(menuName = "Base/Type/Boolean/Observable")]
     public class BooleanObservable : Observable<bool>
     {
     }

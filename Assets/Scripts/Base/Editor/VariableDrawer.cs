@@ -39,7 +39,7 @@ namespace Base.Editor
             else
             {
                 var variableSo = new SerializedObject(property.objectReferenceValue);
-                var value = variableSo.FindProperty("value");
+                var value = variableSo.FindProperty("initialValue");
 
                 EditorGUI.BeginChangeCheck();
 

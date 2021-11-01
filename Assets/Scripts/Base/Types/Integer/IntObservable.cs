@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace Base.Types.Integer
 {
-    [CreateAssetMenu(fileName = "New Integer Observable", menuName = "Types/Integer/Observable")]
+    [CreateAssetMenu(menuName = "Base/Type/Integer/Observable")]
     public class IntObservable : Observable<int>
     {
     }

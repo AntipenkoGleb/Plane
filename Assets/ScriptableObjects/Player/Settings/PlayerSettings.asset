@@ -20,15 +20,15 @@ MonoBehaviour:
     useConstant: 0
     constantValue: 60
     variable: {fileID: 11400000, guid: 07f090f578e0bf642b32b6478f4fd302, type: 2}
-  rotationInput:
+  destroyParticle:
     useConstant: 0
-    constantValue: 0
-    variable: {fileID: 11400000, guid: a709facb5dfc36542996525d28a9ae8a, type: 2}
+    constantValue: {fileID: 11400000, guid: b268751b26aaab640b1da49186972c85, type: 2}
+    variable: {fileID: 11400000, guid: 84d33d03550faef4397370e519f4e6dd, type: 2}
   position:
     useConstant: 0
-    constantValue: {x: -6.27624, y: 6.4749184, z: 0}
+    constantValue: {x: -5.872222, y: 3.5525806, z: 0}
     variable: {fileID: 11400000, guid: f43a7e7239e5bdb44af00aff40721943, type: 2}
   rotation:
-    useConstant: 1
-    constantValue: {x: 0, y: 0, z: 0, w: 1}
-    variable: {fileID: 0}
+    useConstant: 0
+    constantValue: {x: 0, y: 0, z: 0, w: 0}
+    variable: {fileID: 11400000, guid: cab4ca0a36ad0354faff7ba3d14ae343, type: 2}

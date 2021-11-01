@@ -1,21 +1,10 @@
-using System.Collections.Generic;
-using UnityEngine.Serialization;
+using System;
+using UnityEngine.Rendering.Universal;
 
 namespace UnityEngine.Rendering.LWRP
 {
-    public class Blit : UnityEngine.Rendering.Universal.ScriptableRendererFeature
+    public class Blit : ScriptableRendererFeature
     {
-        [System.Serializable]
-        public class BlitSettings
-        {
-            public UnityEngine.Rendering.Universal.RenderPassEvent Event = UnityEngine.Rendering.Universal.RenderPassEvent.AfterRenderingOpaques;
-            
-            public Material blitMaterial = null;
-            public int blitMaterialPassIndex = -1;
-            public Target destination = Target.Color;
-            public string textureId = "_BlitPassTexture";
-        }
-        
         public enum Target
         {
             Color,
@@ -23,9 +12,9 @@ namespace UnityEngine.Rendering.LWRP
         }
 
         public BlitSettings settings = new BlitSettings();
-        UnityEngine.Rendering.Universal.RenderTargetHandle m_RenderTextureHandle;
 
-        BlitPass blitPass;
+        private BlitPass blitPass;
+        private RenderTargetHandle m_RenderTextureHandle;
 
         public override void Create()
         {
@@ -35,20 +24,32 @@ namespace UnityEngine.Rendering.LWRP
             m_RenderTextureHandle.Init(settings.textureId);
         }
 
-        public override void AddRenderPasses(UnityEngine.Rendering.Universal.ScriptableRenderer renderer, ref UnityEngine.Rendering.Universal.RenderingData renderingData)
+        public override void AddRenderPasses(ScriptableRenderer renderer, ref RenderingData renderingData)
         {
             var src = renderer.cameraColorTarget;
-            var dest = (settings.destination == Target.Color) ? UnityEngine.Rendering.Universal.RenderTargetHandle.CameraTarget : m_RenderTextureHandle;
+            var dest = settings.destination == Target.Color ? RenderTargetHandle.CameraTarget : m_RenderTextureHandle;
 
             if (settings.blitMaterial == null)
             {
-                Debug.LogWarningFormat("Missing Blit Material. {0} blit pass will not execute. Check for missing reference in the assigned renderer.", GetType().Name);
+                Debug.LogWarningFormat(
+                    "Missing Blit Material. {0} blit pass will not execute. Check for missing reference in the assigned renderer.",
+                    GetType().Name);
                 return;
             }
 
             blitPass.Setup(src, dest);
             renderer.EnqueuePass(blitPass);
         }
+
+        [Serializable]
+        public class BlitSettings
+        {
+            public RenderPassEvent Event = RenderPassEvent.AfterRenderingOpaques;
+
+            public Material blitMaterial;
+            public int blitMaterialPassIndex = -1;
+            public Target destination = Target.Color;
+            public string textureId = "_BlitPassTexture";
+        }
     }
 }
-

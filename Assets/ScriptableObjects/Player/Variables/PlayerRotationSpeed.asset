@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2ee7c867da96e849815ba9869b95246, type: 3}
   m_Name: PlayerRotationSpeed
   m_EditorClassIdentifier: 
-  value: 100
+  initialValue: 100
+  runtimeValue: 100
   restorable: 0

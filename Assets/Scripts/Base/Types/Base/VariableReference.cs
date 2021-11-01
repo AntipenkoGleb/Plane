@@ -21,13 +21,13 @@ namespace Base.Types.Base
 
         public TValue Value
         {
-            get => useConstant ? constantValue : variable.value;
+            get => useConstant ? constantValue : variable.runtimeValue;
             set
             {
                 if (useConstant)
                     constantValue = value;
                 else
-                    variable.value = value;
+                    variable.runtimeValue = value;
             }
         }
 

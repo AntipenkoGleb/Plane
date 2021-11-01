@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace Base.Types.Integer
 {
-    [CreateAssetMenu(fileName = "New Integer Variable", menuName = "Types/Integer/Variable")]
+    [CreateAssetMenu(menuName = "Base/Type/Integer/Variable")]
     public class IntVariable : Variable<int>
     {
     }

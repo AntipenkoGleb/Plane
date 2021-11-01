@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace Base.Types.Quaternion
 {
-    [CreateAssetMenu(fileName = "New Quaternion Variable", menuName = "Types/Quaternion/Variable")]
+    [CreateAssetMenu(menuName = "Base/Type/Quaternion/Variable")]
     public class QuaternionVariable : Variable<UnityEngine.Quaternion>
     {
     }

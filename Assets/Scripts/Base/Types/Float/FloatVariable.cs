@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace Base.Types.Float
 {
-    [CreateAssetMenu(fileName = "New Float Variable", menuName = "Types/Float/Variable")]
+    [CreateAssetMenu(menuName = "Base/Type/Float/Variable")]
     public class FloatVariable : Variable<float>
     {
     }

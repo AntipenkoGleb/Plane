@@ -4,10 +4,21 @@
     <e p="C:\Users\Admin\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
     <e p="C:\Users\Admin\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_Plane.-1386581285.00" t="ExcludeRecursive" />
     <e p="D:\Unity\Projects\Plane" t="IncludeRecursive">
-      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Addons" t="Include">
+          <e p="JMO Assets" t="Include">
+            <e p="Cartoon FX" t="Include">
+              <e p="CartoonFX Free.txt" t="Include" />
+              <e p="Shaders" t="Include">
+                <e p="CFX3 Multiply Color.shader" t="Include" />
+                <e p="CFXM_MobileParticleAdd_Alpha8.shader" t="Include" />
+              </e>
+            </e>
+            <e p="Cartoon FX Easy Editor" t="Include">
+              <e p="CartoonFX Easy Editor Readme.txt" t="Include" />
+            </e>
+          </e>
           <e p="TextMesh Pro" t="Include">
             <e p="Fonts" t="Include">
               <e p="LiberationSans - OFL.txt" t="Include" />
@@ -39,71 +50,83 @@
               <e p="EmojiOne Attribution.txt" t="Include" />
             </e>
           </e>
-        </e>
-        <e p="JMO Assets" t="Include">
-          <e p="Cartoon FX" t="Include">
-            <e p="CartoonFX Free.txt" t="Include" />
-            <e p="Demo" t="Include">
-              <e p="Assets" t="Include">
-                <e p="CFX_AutoStopLoopedEffect.cs" t="Include" />
-                <e p="CFX_Demo_New.cs" t="Include" />
-                <e p="CFX_Demo_RandomDir.cs" t="Include" />
-                <e p="CFX_Demo_RandomDirectionTranslate.cs" t="Include" />
-                <e p="CFX_Demo_RotateCamera.cs" t="Include" />
-                <e p="CFX_Demo_Translate.cs" t="Include" />
-              </e>
+          <e p="Universal Sound FX" t="Include">
+            <e p="#Game Genre References" t="Include">
+              <e p="8bit and Retro.txt" t="Include" />
+              <e p="Fighting.txt" t="Include" />
+              <e p="First Person Shooter (FPS).txt" t="Include" />
+              <e p="Physics.txt" t="Include" />
+              <e p="Platform.txt" t="Include" />
+              <e p="Puzzle.txt" t="Include" />
+              <e p="Real Time Stategy (RTS) Medieval.txt" t="Include" />
+              <e p="Real Time Stategy (RTS) Sci-Fi.txt" t="Include" />
+              <e p="Shoot em Up.txt" t="Include" />
             </e>
-            <e p="Scripts" t="Include">
-              <e p="CFX_AutoDestructShuriken.cs" t="Include" />
-              <e p="CFX_AutoRotate.cs" t="Include" />
-              <e p="CFX_LightFlicker.cs" t="Include" />
-              <e p="CFX_LightIntensityFade.cs" t="Include" />
-            </e>
-            <e p="Shaders" t="Include">
-              <e p="CFX3 Multiply Color.shader" t="Include" />
-              <e p="CFXM_MobileParticleAdd_Alpha8.shader" t="Include" />
-            </e>
+            <e p="#version_history.txt" t="Include" />
           </e>
-          <e p="Cartoon FX Easy Editor" t="Include">
-            <e p="CartoonFX Easy Editor Readme.txt" t="Include" />
-            <e p="Editor" t="Include">
-              <e p="CFXEasyEditor.cs" t="Include" />
+        </e>
+        <e p="FPSCounter.cs" t="Include" />
+        <e p="InputActions.cs" t="Include" />
+        <e p="Plugins" t="Include">
+          <e p="Demigiant" t="Include">
+            <e p="DOTween" t="Include">
+              <e p="Modules" t="Include">
+                <e p="DOTween.Modules.asmdef" t="Include" />
+                <e p="DOTweenModuleAudio.cs" t="Include" />
+                <e p="DOTweenModulePhysics.cs" t="Include" />
+                <e p="DOTweenModulePhysics2D.cs" t="Include" />
+                <e p="DOTweenModuleSprite.cs" t="Include" />
+                <e p="DOTweenModuleUI.cs" t="Include" />
+                <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+                <e p="DOTweenModuleUtils.cs" t="Include" />
+              </e>
             </e>
           </e>
         </e>
         <e p="Scripts" t="Include">
           <e p="Base" t="Include">
-            <e p="basedef.asmdef" t="Include" />
-            <e p="Channels" t="Include">
-              <e p="Vector3EventChannel.cs" t="Include" />
-              <e p="VoidEventChannel.cs" t="Include" />
-            </e>
             <e p="Editor" t="Include">
-              <e p="basescripts.editor.asmdef" t="Include" />
               <e p="FloatObservableEditor.cs" t="Include" />
-              <e p="GameEventDrawer.cs" t="Include" />
-              <e p="GameEventEditor.cs" t="Include" />
+              <e p="Scripts.Editor.asmdef" t="Include" />
               <e p="VariableDrawer.cs" t="Include" />
               <e p="VariableReferenceDrawer.cs" t="Include" />
             </e>
             <e p="Events" t="Include">
-              <e p="GameEvent.cs" t="Include" />
-              <e p="GameEventListener.cs" t="Include" />
-            </e>
-            <e p="EventStateMachine" t="Include">
-              <e p="Actions" t="Include">
-                <e p="AddRotationAction.cs" t="Include" />
-                <e p="ConditionAction.cs" t="Include" />
-                <e p="SetRotationAction.cs" t="Include" />
-                <e p="SetVelocityAction.cs" t="Include" />
+              <e p="Audio" t="Include">
+                <e p="AudioEvent.cs" t="Include" />
+                <e p="AudioEventChannel.cs" t="Include" />
+                <e p="AudioEventChannelListener.cs" t="Include" />
+                <e p="SimpleAudioEvent.cs" t="Include" />
               </e>
               <e p="Base" t="Include">
-                <e p="Action.cs" t="Include" />
-                <e p="Condition.cs" t="Include" />
-                <e p="State.cs" t="Include" />
+                <e p="BaseEvent.cs" t="Include" />
+                <e p="EventChannelSO.cs" t="Include" />
+                <e p="IEventChannel.cs" t="Include" />
+                <e p="IPublisher.cs" t="Include" />
+                <e p="ISubscriber.cs" t="Include" />
+                <e p="PublisherSo.cs" t="Include" />
               </e>
-              <e p="CachedMonoBehaviour.cs" t="Include" />
-              <e p="EventStateMachine.cs" t="Include" />
+              <e p="Game" t="Include">
+                <e p="GameEvent.cs" t="Include" />
+                <e p="GameEventListener.cs" t="Include" />
+              </e>
+              <e p="Particle" t="Include">
+                <e p="ParticleEvent.cs" t="Include" />
+                <e p="ParticleEventChannel.cs" t="Include" />
+                <e p="SimpleParticleEvent.cs" t="Include" />
+              </e>
+            </e>
+            <e p="ReferenceHolders" t="Include">
+              <e p="Base" t="Include">
+                <e p="RuntimeReferenceHolder.cs" t="Include" />
+                <e p="RuntimeReferenceObject.cs" t="Include" />
+                <e p="RuntimeReferenceObserver.cs" t="Include" />
+              </e>
+              <e p="Transform" t="Include">
+                <e p="TransformRuntimeReferenceHolder.cs" t="Include" />
+                <e p="TransformRuntimeReferenceObject.cs" t="Include" />
+                <e p="TransformRuntimeReferenceObserver.cs" t="Include" />
+              </e>
             </e>
             <e p="Types" t="Include">
               <e p="Base" t="Include">
@@ -141,12 +164,6 @@
                 <e p="QuaternionReference.cs" t="Include" />
                 <e p="QuaternionVariable.cs" t="Include" />
               </e>
-              <e p="Transform" t="Include">
-                <e p="TransformObservable.cs" t="Include" />
-                <e p="TransformObserver.cs" t="Include" />
-                <e p="TransformReference.cs" t="Include" />
-                <e p="TransformVariable.cs" t="Include" />
-              </e>
               <e p="Vector3" t="Include">
                 <e p="Vector3Observable.cs" t="Include" />
                 <e p="Vector3Observer.cs" t="Include" />
@@ -155,11 +172,24 @@
               </e>
             </e>
           </e>
+          <e p="Destroyable.cs" t="Include" />
           <e p="Player" t="Include">
             <e p="PlayerController.cs" t="Include" />
-            <e p="PlayerSettings.cs" t="Include" />
+          </e>
+          <e p="ScriptableObjects" t="Include">
+            <e p="Input" t="Include">
+              <e p="GameInputReader.cs" t="Include" />
+              <e p="InputReader.cs" t="Include" />
+            </e>
+            <e p="Player" t="Include">
+              <e p="PlayerSettings.cs" t="Include" />
+            </e>
           </e>
           <e p="scriptsdef.asmdef" t="Include" />
+          <e p="SpawnSystem" t="Include">
+            <e p="Spawner.cs" t="Include" />
+          </e>
+          <e p="TriggerEnterCallback.cs" t="Include" />
         </e>
         <e p="Settings" t="Include">
           <e p="Graphics" t="Include">
@@ -176,11 +206,11 @@
           </e>
         </e>
       </e>
-      <e p="basedef.csproj" t="IncludeRecursive" />
-      <e p="basescripts.editor.asmdef .csproj" t="IncludeRecursive" />
+      <e p="DOTween.Modules.csproj" t="IncludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />
       <e p="Plane.sln" t="IncludeFlat" />
+      <e p="Scripts.Editor.csproj" t="IncludeRecursive" />
       <e p="scriptsdef.csproj" t="IncludeRecursive" />
       <e p="Temp\Bin" t="ExcludeRecursive" />
     </e>

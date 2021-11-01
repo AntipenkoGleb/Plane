@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace Base.Types.Boolean
 {
-    [CreateAssetMenu(fileName = "New Boolean Variable", menuName = "Types/Boolean/Variable")]
+    [CreateAssetMenu(menuName = "Base/Type/Boolean/Variable")]
     public class BooleanVariable : Variable<bool>
     {
     }
